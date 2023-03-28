@@ -1,0 +1,2 @@
+x = bool(" ")
+print(x)
